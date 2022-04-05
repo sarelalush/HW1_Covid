@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/HW1_Covid.dir/main.cpp.o  -o HW1_Covid.exe -Wl,--out-implib,libHW1_Covid.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
